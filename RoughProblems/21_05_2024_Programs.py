@@ -22,3 +22,11 @@ def swap(a,b):
     return a,b
 
 print(swap(10,50))
+
+# Equality Operator vs Identiy Operator
+
+a = 10
+b=10
+c=a
+print(a==b)
+print(c is b)
