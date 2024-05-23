@@ -38,7 +38,7 @@ def utility():
     for i in range(b-1):
         print()
     
-    # Print the third arrow 
+    # Print the third arrow
     print(arrow)
 
 utility()
